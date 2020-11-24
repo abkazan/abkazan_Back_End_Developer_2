@@ -1,3 +1,10 @@
+// --== CS400 File Header Information ==--
+// Name: Andrew Kazan
+// Email: abkazan@wisc.edu
+// Team: HC
+// TA: Na Li
+// Lecturer: Florian
+// Notes to Grader: <optional extra notes>
 import java.util.Hashtable;
 
 /**
