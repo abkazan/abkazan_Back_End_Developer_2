@@ -20,6 +20,9 @@ other content that your can commit, provide a list of the work that you did
 during week 1. Make sure that all your week 1 contributions and this section
 of the readme are committed and pushed to the GitHub repo by the week 1 deadline
 on 11/24 at 11:59pm CST.>
+wrote the following files:
+Room.java
+Graph.java
 
 Contributions Week 2:
 ---------------------
